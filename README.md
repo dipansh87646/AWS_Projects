@@ -1,1 +1,1 @@
-pip install aws-shell
+
